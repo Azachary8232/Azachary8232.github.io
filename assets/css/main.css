@@ -6,6 +6,18 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/* My Additions */
+
+.inlineBlock{
+	display: inline-block;
+}
+
+.anchor{
+	font-size: 18pt;
+	font-weight: bold;
+	text-decoration: none;
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
